@@ -1,8 +1,20 @@
 # 2020-package-framework
 This framework is created since 2020 and it the first-ever fps framework that i created,
-They're mimic Deadzone style, The animations system is frame by frame CFrame, doesn't use any kind of Linear Interpolation (Lerp) or Tween on play animation
+They're mimic Deadzone style, The animations system is frame by frame CFrame, doesn't use any kind of Linear Interpolation (Lerp) or Tween on ```PlayAnimation```.
+<br>
 
-# Installation
+----	
+# DETAILS
+**Total line:** 537 Lines (not including whitespace/blank and duplicates)<p>
+**Total LocalScripts:** 2,  259 Lines<p>
+**Total ModuleScripts** 8, 278 Lines<p>
+![image](https://github.com/user-attachments/assets/1259cc23-d30c-41eb-b49a-0afdcd3bf680)
+
+# 🛠 Permission
+You're free to use this assets for your own game development!
+But you can't claimed this framework as your ownselve or Reupload and claimed it as your own, Please leave my name if you're gonna use for the Commercial Purposes!
+
+# 📦 Package Installation
 Download this repo and manually install or Run this script snippet in Command Bar of ROBLOX Studio,
 If you're installing from the script snippet, Make sure you download the RBXM files from the ReplicatedStorage/Res!
 And Import to "ReplicatedStorage" > "Res"!
