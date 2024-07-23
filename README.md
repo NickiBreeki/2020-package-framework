@@ -50,3 +50,6 @@ Storage:Destroy()
 msg.Text = "Installation Finished!"
 task.delay(3, function() msg:Destroy() end)
 ```
+yeah forgot, here, don't waste your time...
+just.. take it from here..... :trollface:
+https://www.roblox.com/games/5204856478/OLD-OPEN-SOURCE-Package-Framework
